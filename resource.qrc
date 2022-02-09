@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/png">
+        <file>installer.png</file>
+    </qresource>
+    <qresource prefix="/ico">
+        <file>planetarian_SG.ico</file>
+    </qresource>
+    <qresource prefix="/exe">
+        <file>PyCode.exe</file>
+    </qresource>
+</RCC>
